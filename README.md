@@ -1,21 +1,21 @@
 # Data Analyst
 
 ### Education
-MS in Kinesiology
-BA in Psychology
+- MS in Kinesiology
+- BA in Psychology
 
 ### Certificates
-Udemy MySQL Bootcamp 
-HackerRank Basic SQL
+- Udemy MySQL Bootcamp 
+- HackerRank Basic SQL
 
 ### Work
-7.5 years as strength and conditioning coach at Division I level
+7.5 years as strength and conditioning coach at Division I level (2016-2023)
 - Frequently tracked and monitored athlete performance data
 - Determined potential injury risk due to invidiual metrics
 - Monitored performance increases by referencing athlete strength to power ratio, speed and strength increase
 - Determined KPI's for multiple teams based on scientific literature, available data and team goals
 
-Leasing Specialist
+Leasing Specialist (2014-2016)
 - Customer service and target-based apartment leasing expertise
 - Utilization of CRM software to contact, track and close prospects
 - Involved in lease contract renewal, retension goals and customer support
