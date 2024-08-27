@@ -21,11 +21,11 @@ Leasing Specialist (2014-2016)
 - Involved in lease contract renewal, retension goals and customer support
 
 ### Projects
-GPS Athlete Data Cleaning
+GPS Athlete Data Cleaning (Excel and Tableau)
 - Excel Cleaning, formatting and Visualization
 - Tableau Visualzation: Indiv differences, dates, highest vs avg numbers
 
-IG Clone Data
+IG Clone Data (SQL)
 - Created Data tables
 - Found 5 oldest users, limiting to top 5
 - Found days user most likely to register on
@@ -33,7 +33,7 @@ IG Clone Data
 - Found users with most likes on single photo
 - Found bots who have liked everyones photos
 
-Covid Deaths Data
+Covid Deaths Data (SQL)
 - Looked for total cases vs total deaths and percentage of cases where deaths in US
 - Looked into percentage of population most to least infected
 - Looked into countries with highest death count per population
