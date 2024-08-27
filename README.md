@@ -39,3 +39,6 @@ Covid Deaths Data
 - Looked into countries with highest death count per population
 - Pulled death by continent, ranked highest to lowest
 
+### Links
+[Tableau Public](https://public.tableau.com/app/profile/collin.maccabe/viz/GPSPractice/Dashboard1)
+[Linkedin](https://www.linkedin.com/in/collin-maccabe-a7a26551/)
