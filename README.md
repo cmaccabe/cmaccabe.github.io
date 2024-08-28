@@ -1,7 +1,6 @@
 # Data Analyst
 
-#### Technical Skills
-SQL, Tableau, Excel, Python
+#### Technical Skills: SQL, Tableau, Excel, Python
 
 ### Education
 - MS in Kinesiology
@@ -42,6 +41,6 @@ Covid Deaths Data (SQL)
 - Looked into countries with highest death count per population
 - Pulled death by continent, ranked highest to lowest
 
-### Links
+#### Links
 [Tableau Public](https://public.tableau.com/app/profile/collin.maccabe/viz/GPSPractice/Dashboard1)
 [Linkedin](https://www.linkedin.com/in/collin-maccabe-a7a26551/)
