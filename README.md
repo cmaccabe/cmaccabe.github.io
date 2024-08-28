@@ -1,5 +1,8 @@
 # Data Analyst
 
+#### Technical Skills
+SQL, Tableau, Excel, Python
+
 ### Education
 - MS in Kinesiology
 - BA in Psychology
