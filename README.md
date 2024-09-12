@@ -23,7 +23,8 @@ Leasing Specialist (2014-2016)
 - Involved in lease contract renewal, retension goals and customer support
 
 ### Projects
-GPS Athlete Data Cleaning (Excel and Tableau)
+GPS Athlete Data Cleaning (SQL, Excel and Tableau):
+I was interested in grabbing relevant metrics based on date and invidiual performances, then ranking those metrics to visually see who the outliers were. I was able to represent this both in excel and SQL using my knowledge of both programs, then show this in a different visual representation through Tableau.
 - Excel Cleaning, formatting and Visualization
 - Tableau Visualzation: Indiv differences, dates, highest vs avg numbers
 - Visualization: [Tableau Public](https://public.tableau.com/app/profile/collin.maccabe/viz/GPSPractice/Dashboard1)
