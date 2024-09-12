@@ -26,6 +26,7 @@ Leasing Specialist (2014-2016)
 GPS Athlete Data Cleaning (Excel and Tableau)
 - Excel Cleaning, formatting and Visualization
 - Tableau Visualzation: Indiv differences, dates, highest vs avg numbers
+- Visualization: [Tableau Public](https://public.tableau.com/app/profile/collin.maccabe/viz/GPSPractice/Dashboard1)
 
 IG Clone Data (SQL)
 - Created Data tables
@@ -42,5 +43,4 @@ Covid Deaths Data (SQL)
 - Pulled death by continent, ranked highest to lowest
 
 #### Links
-[Tableau Public](https://public.tableau.com/app/profile/collin.maccabe/viz/GPSPractice/Dashboard1)
 [Linkedin](https://www.linkedin.com/in/collin-maccabe-a7a26551/)
