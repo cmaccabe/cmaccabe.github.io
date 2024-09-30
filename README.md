@@ -40,7 +40,7 @@ I pulled this dataset from Kaggle to see if I could make some easily understanda
 
 Ecommerce Performance (SQL & Excel)
 - I investigated a data set to determine who consumers were (gender & age), what payment method they used, and if they were purchasing add-ons for their orders
-- Through this investigation I was able to determine most customers were men and were more likely to complete orders BUT women purchased more add-ons and had higher reveue from add-ons
+- Through this investigation I was able to determine most customers were men and were more likely to complete orders BUT women purchased more add-ons and had higher revenue from add-ons
 - The median age for orders was 49 years old, Bank transfer was the greatest form of payment used and standard shipping was the greatest shipping method used
 - 76% of people who made an online purchase also purchased some form of add-on
 
