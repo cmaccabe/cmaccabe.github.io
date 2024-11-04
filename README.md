@@ -10,6 +10,9 @@
 - Udemy MySQL Bootcamp 
 - HackerRank Basic SQL
 
+#### Repository
+- [Repo](https://github.com/cmaccabe?tab=repositories)
+
 ### Projects
 GPS Athlete Data (SQL, Excel and Tableau):
 I was interested in grabbing relevant metrics based on date and invidiual performances, then ranking those metrics to visually see who the outliers were. I was able to represent this both in excel and SQL using my knowledge of both programs, then show this in a different visual representation through Tableau.
